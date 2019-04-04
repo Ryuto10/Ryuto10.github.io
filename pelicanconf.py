@@ -12,7 +12,7 @@ TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = 'ja'
 
-THEME = 'pelican-blue'
+THEME = 'pelican-clean-blog'
 
 SIDEBAR_DIGEST = '今野 颯人'
 FAVICON = ''
@@ -34,7 +34,7 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/Ryuto10/'),
-          ('mail-s', 'mailto:ryuto@ecei.tohoku.ac.jp'),)
+          ('envelope', 'mailto:ryuto@ecei.tohoku.ac.jp'),)
 
 DEFAULT_PAGINATION = 10
 

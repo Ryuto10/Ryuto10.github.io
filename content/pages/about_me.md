@@ -1,17 +1,24 @@
 Title:about me
 Category:
-Date:2018-10-24 15:40
+Date:2019-4-4 20:00
 
 
-## Ryuto Konno / 今野 颯人  
+# Ryuto Konno / 今野 颯人  
 
-- [東北大学](http://www.tohoku.ac.jp/japanese/) / [Tohoku University](http://www.tohoku.ac.jp/en/)  
-[工学部](https://www.eng.tohoku.ac.jp/) / [Department of Electrical](https://www.eng.tohoku.ac.jp/)  
-[電気情報物理工学科](http://www.ecei.tohoku.ac.jp/eipe/) / [Information and Physics Engineering](http://www.ecei.tohoku.ac.jp/eipe/)  
-[乾・鈴木研究室](http://www.cl.ecei.tohoku.ac.jp/) / [Inui-Suzuki Laboratory](http://www.cl.ecei.tohoku.ac.jp/)  
-学部４年生 / fourth year undergraduate student  
+東北大学大学院 情報科学研究科 システム情報科学専攻 修士1年  
+[乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/)
 
-- [東北大学ストリートダンスサークルWHO](https://twitter.com/streetdance_who)
+Tohoku University Graduate School of Information Science, M1  
+Inui-Suzuki Laboratory
+
+## Publications  
+### Domestic  
+
+- <u>今野颯人</u>, 松林優一郎, 大内啓樹, 清野舜, 乾健太郎  
+**前⽅⽂脈の埋め込みを利⽤した⽇本語述語項構造解析**  
+*言語処理学会第25回年次大会(NLP2019), pp.53-56, March 2019.*  
+[[paper](https://ryuto10.github.io/files/NLP2019_paper.pdf)] [[slide](https://ryuto10.github.io/files/NLP2019_slide.pdf)]
+
 
 ## Research Interests  
 
@@ -20,9 +27,9 @@ Date:2018-10-24 15:40
 - Dialogue Coherence
 
 ## History  
-
-- 2015-2019 東北大学 工学部 電気情報物理工学科
-- 2012-2015 岩手県 盛岡第三 高等学校
+- 2019.4- : 東北大学大学院 情報科学研究科 システム情報科学専攻
+- 2015.4-2019.3: 東北大学 工学部 電気情報物理工学科
+- 2012.4-2015.3: 岩手県 盛岡第三 高等学校
 - 1996.11.10 岩手県生まれ
 
 ## Activities
