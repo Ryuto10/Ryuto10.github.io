@@ -14,6 +14,11 @@ Inui-Suzuki Laboratory
 ## Publications  
 ### Domestic  
 
+- <u>今野颯人</u>, 松林優一郎, 清野舜, 高橋諒, 大内啓樹, 乾健太郎    
+**BERTによる擬似訓練データ生成に基づく述語項構造解析**  
+*NLP若手の会第14回シンポジウム (YANS 2019), 札幌, August 2019.*  
+[[poster](https://ryuto10.github.io/files/Yans2019_poster.pdf)] [[slide](https://ryuto10.github.io/files/Yans2019_slide.pdf)]
+
 - <u>今野颯人</u>, 松林優一郎, 大内啓樹, 清野舜, 乾健太郎  
 **前⽅⽂脈の埋め込みを利⽤した⽇本語述語項構造解析**  
 *言語処理学会第25回年次大会(NLP2019), pp.53-56, March 2019.*  
