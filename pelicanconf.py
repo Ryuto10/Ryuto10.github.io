@@ -5,6 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = 'Ryuto Konno'
 SITENAME = 'Ryuto Konno'
 SITEURL = ''
+# SITELOGO = ''  # my_phto
+# HEADER_COVER = ''  # header_photo
 
 PATH = 'content'
 
@@ -13,11 +15,15 @@ TIMEZONE = 'Asia/Tokyo'
 DEFAULT_LANG = 'ja'
 
 THEME = 'pelican-clean-blog'
+# THEME = 'attila'
+# THEME = 'Flex'
 
 SIDEBAR_DIGEST = '今野 颯人'
 FAVICON = ''
 DISPLAY_PAGES_ON_MENU = True
-# MENUITEMS = (('home', '/'),)
+# MENUITEMS = (
+#     ('home', '/'),
+# )
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
