@@ -4,7 +4,7 @@ Author: Ryuto_Konno
 <!-- Header_Cover: image.png -->
 
 # Ryuto Konno / 今野 颯人
-東北大学大学院 情報科学研究科 システム情報科学専攻 修士2年  
+東北大学大学院 情報科学研究科 システム情報科学専攻, 修士2年  
 [乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/)
 
 Tohoku University Graduate School of Information Science, M2  
@@ -35,22 +35,22 @@ Inui-Suzuki Laboratory
 - <u>今野颯人</u>, 松林優一郎, 清野舜, 大内啓樹, 高橋諒, 乾健太郎.  
 **マスク言語モデルを利用したデータ拡張に基づく日本語文内ゼロ照応解析.**  
 *言語処理学会第26回年次大会(NLP2020), March 2020.*  
-[[paper](https://ryuto10.github.io/files/NLP2020_paper.pdf)] [[slide](https://ryuto10.github.io/files/NLP2020_slide.pdf)]
+[[paper](https://ryuto10.github.io/files/NLP2020_paper.pdf)]   [[slide](https://ryuto10.github.io/files/NLP2020_slide.pdf)]
 - 宮脇峻平, 清野舜, 松林優一郎, <u>今野颯人</u>, 高橋諒, 大内啓樹, 乾健太郎.  
 **反復改良法を用いた日本語述語項構造解析.**  
 *言語処理学会第26回年次大会(NLP2020), March 2020.*  
-[[paper](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/C5-2.pdf)]  
+[[paper](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/C5-2.pdf)]
 - <u>今野颯人</u>, 松林優一郎, 清野舜, 高橋諒, 大内啓樹, 乾健太郎.  
 **BERTによる擬似訓練データ生成に基づく述語項構造解析.**  
 *NLP若手の会第14回シンポジウム (YANS 2019), 札幌, August 2019.*  
-[[poster](https://ryuto10.github.io/files/Yans2019_poster.pdf)] [[slide](https://ryuto10.github.io/files/Yans2019_slide.pdf)]
+[[poster](https://ryuto10.github.io/files/Yans2019_poster.pdf)]   [[slide](https://ryuto10.github.io/files/Yans2019_slide.pdf)]
 - 宮脇峻平, 加藤拓真, <u>今野颯人</u>, 大内啓樹, 清野舜, 松林優一郎, 高橋諒, 乾健太郎.  
 **日本語述語項構造のための自己回帰モデル.**  
 *NLP若手の会第14回シンポジウム (YANS 2019), 札幌, August 2019.*
 - <u>今野颯人</u>, 松林優一郎, 大内啓樹, 清野舜, 乾健太郎.  
 **前⽅⽂脈の埋め込みを利⽤した⽇本語述語項構造解析.**  
 *言語処理学会第25回年次大会(NLP2019), pp.53-56, March 2019.*  
-[[paper](https://ryuto10.github.io/files/NLP2019_paper.pdf)] [[slide](https://ryuto10.github.io/files/NLP2019_slide.pdf)]
+[[paper](https://ryuto10.github.io/files/NLP2019_paper.pdf)]   [[slide](https://ryuto10.github.io/files/NLP2019_slide.pdf)]
 
 ## Experience
 - *2020.10-2021.3*: Preferred Networks part-time jobs
