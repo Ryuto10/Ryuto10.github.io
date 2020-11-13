@@ -1,5 +1,5 @@
 Title: about me
-Date: 2020-10-19 23:00
+Date: 2020-11-13 23:50
 Author: Ryuto_Konno
 <!-- Header_Cover: image.png -->
 
@@ -12,14 +12,15 @@ Inui-Suzuki Laboratory
 
 ## Research Interests
 - Predicate Argument Structure Analysis / 述語項構造解析
-- Zero Anaphora resolition
+- Zero Anaphora Resolution
 - Dialogue
 
 ## Publications
 ### International Conference
 - <u>Ryuto Konno</u>, Yuichiroh Matsubayashi, Shun Kiyono, Hiroki Ouchi, Ryo Takahashi and Kentaro Inui.  
 **An Empirical Study of Contextual Data Augmentation forJapanese Zero Anaphora Resolution.**  
-*The 28th International Conference on Computational Linguistics (COLING 2020), Online, December 8 - 11, 2020.*
+*The 28th International Conference on Computational Linguistics (COLING 2020), Online, December 8 - 11, 2020.*  
+[[paper](https://arxiv.org/abs/2011.00948)]
 - Shun Kiyono, Takumi Ito, <u>Ryuto Konno</u>, Makoto Morishita, Jun Suzuki.  
 **Tohoku-AIP-NTT at WMT 2020 News Translation Task.**  
 *Proceedings of the Fifth Conference on Machine Translation: Shared Task Papers, WMT 2020, Online, November 19 - 20, 2020.*
