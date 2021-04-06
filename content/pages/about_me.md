@@ -4,16 +4,13 @@ Author: Ryuto_Konno
 <!-- Header_Cover: image.png -->
 
 # Ryuto Konno / 今野 颯人
-東北大学大学院 情報科学研究科 システム情報科学専攻, 修士2年  
-[乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/)
+[株式会社リクルート](https://www.recruit.co.jp/)  
 
-Tohoku University Graduate School of Information Science, M2  
-Inui-Suzuki Laboratory
-
-## Research Interests
-- Predicate Argument Structure Analysis / 述語項構造解析
-- Zero Anaphora Resolution, Zero Pronoun Resolution
-- Dialogue
+## History
+- *2021.4-* : 株式会社リクルート
+- *2019.4-2021.3* : 東北大学大学院 情報科学研究科 システム情報科学専攻 [乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/)
+- *2015.4-2019.3*: 東北大学 工学部 電気情報物理工学科
+- *2012.4-2015.3*: 岩手県立盛岡第三高等学校
 
 ## Publications
 ### International Conference
@@ -22,6 +19,8 @@ Inui-Suzuki Laboratory
 - Hiroki Ouchi, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, <u>Ryuto Konno</u>, Kentaro Inui. **Instance-based Learning of Span Representations: A Case Study through Named Entity Recognition.** *In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), pp.6452–6459, July 2020.* [[paper](https://www.aclweb.org/anthology/2020.acl-main.575/)]
 
 ### Domestic Conference
+- <u>今野颯人</u>, 松林優一郎, 清野舜, 大内啓樹, 乾健太郎. **事前学習とfinetuningの類似性に基づくゼロ照応解析.** *言語処理学会第27回年次大会 (NLP 2021), pp.1718-1723, March 2021.* [[paper](https://www.anlp.jp/nlp2021/program_online/pdf_dir/C9-4.pdf)] [[slide](https://ryuto10.github.io/files/NLP2021_slide.pdf)]
+- 佐藤汰亮, 菊地正弥, 大竹孝樹, <u>今野颯人</u>, Ana Brassard, 大内啓樹, 乾健太郎. **プロンプトに基づく俳句生成モデルの生成内容評価.** *言語処理学会第27回年次大会, pp.1470-1474, March 2021.*
 - 藤原吏生\*, 岸波洋介\*, <u>今野颯人</u>, 佐藤志貴, 佐藤汰亮, 宮脇峻平, 加藤拓真, 鈴木潤, 乾健太郎. **ILYS aoba bot: 大規模ニューラル応答生成モデルとルールベースを統合した雑談対話システム** *人工知能学会 第90回 言語・音声理解と対話処理研究会 (SLUD 2020), pp.110-115, November 2020.* [[code](https://github.com/cl-tohoku/ILYS-aoba-chatbot)]
 - 宮脇峻平, 清野舜, 松林優一郎, <u>今野颯人</u>, 乾健太郎. **QA-SRLとのマルチタスク学習による意味役割付与のデータ拡張.** *NLP若手の会第15回シンポジウム (YANS 2020), September 2020.*
 - <u>今野颯人</u>, 松林優一郎, 清野舜, 大内啓樹, 高橋諒, 乾健太郎. **マスク言語モデルを利用したデータ拡張に基づく日本語文内ゼロ照応解析.** *言語処理学会第26回年次大会 (NLP 2020), pp.1093-1096, March 2020.* [[paper](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/C5-1.pdf)] [[slide](https://ryuto10.github.io/files/NLP2020_slide.pdf)]
@@ -54,9 +53,3 @@ Inui-Suzuki Laboratory
 - *2019.4–2019.8*: プログラミング演習A (東北大学)
 - *2019.4–2019.8*: 電気情報物理工学実験B (東北大学)
 - *2018.10–2019.3*: 創造工学研修 (東北大学)
-
-## History
-- *2021.4-* :
-- *2019.4-2021.3* : 東北大学大学院 情報科学研究科 システム情報科学専攻
-- *2015.4-2019.3*: 東北大学 工学部 電気情報物理工学科
-- *2012.4-2015.3*: 岩手県 盛岡第三 高等学校

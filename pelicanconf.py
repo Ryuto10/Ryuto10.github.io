@@ -39,8 +39,12 @@ AUTHOR_FEED_RSS = None
 #          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('github', 'https://github.com/Ryuto10/'),
-          ('envelope', 'mailto:ryuto@ecei.tohoku.ac.jp'),)
+#
+SOCIAL = (
+    ('github', 'https://github.com/Ryuto10/'),
+    ('envelope', 'mailto:ryuto_konno@r.recruit.co.jp'),
+    ('twitter', 'https://twitter.com/Pxx_rai'),
+)
 
 DEFAULT_PAGINATION = 10
 
