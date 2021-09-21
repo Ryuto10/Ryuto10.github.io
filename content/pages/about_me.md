@@ -8,10 +8,10 @@ Author: Ryuto_Konno
 
 - [株式会社リクルート](https://www.recruit.co.jp/)
 - [株式会社Preferred Networks](https://www.preferred.jp/ja/) (兼業)
-<!-- - [学術研究員 at 鈴木潤研究室](https://www.fai.cds.tohoku.ac.jp/) (兼業) -->
+- [学術研究員 at 鈴木潤研究室](https://www.fai.cds.tohoku.ac.jp/) (兼業)
 
 ## History
-<!-- - *2021.10-* : 学術研究員 at [鈴木潤研究室](https://www.fai.cds.tohoku.ac.jp/) (兼業) -->
+- *2021.10-* : 学術研究員 at [鈴木潤研究室](https://www.fai.cds.tohoku.ac.jp/) (兼業)
 - *2021.5-* : 株式会社Preferred Networks (兼業)
 - *2021.4-* : 株式会社リクルート
 - *2019.4-2021.3* : 東北大学大学院 情報科学研究科 システム情報科学専攻 [乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/)
@@ -55,8 +55,8 @@ Author: Ryuto_Konno
 		- English to/from German
 		- English to/from Japanese
 	- 結果: En-De, De-En,  En-Ja, Ja-En, 全て人手評価で同率１位
-		- MT-ComparEval: [http://wmt.ufal.cz/](http://wmt.ufal.cz/)
-		- Results of the WMT20 Metrics Shared Task: [http://www.statmt.org/wmt20/pdf/2020.wmt-1.77.pdf](http://www.statmt.org/wmt20/pdf/2020.wmt-1.77.pdf)
+		- [MT-ComparEval](http://wmt.ufal.cz/)
+		- [Results of the WMT20 Metrics Shared Task](http://www.statmt.org/wmt20/pdf/2020.wmt-1.77.pdf)
 - *2019.10*: [最先端NLP勉強会2019](https://sites.google.com/view/snlp-jp/home/2019?authuser=0)
 	- Submodular Optimization-based Diverse Paraphrasing and its Effectiveness in Data Augmentation (NAACL2019) [[slide](https://ryuto10.github.io/files/SNLP2019_slide.pdf)]
 - *2019.9–2019.10*: [Recruit Internship for Specialist 2019](https://www.recruit-jinji.jp/internship/)
