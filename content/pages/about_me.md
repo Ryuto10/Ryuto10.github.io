@@ -1,10 +1,10 @@
 Title: about me
-Date: 2020-11-13 23:50
+Date: 2021-10-10 21:00
 Author: Ryuto_Konno
 <!-- Header_Cover: image.png -->
 
 # Ryuto Konno / 今野 颯人
-<img src="https://ryuto10.github.io/files/my_photo.jpg" width="250">
+<!-- <img src="https://ryuto10.github.io/files/my_photo.jpg" width="250"> -->
 
 - [株式会社リクルート](https://www.recruit.co.jp/)
 - [株式会社Preferred Networks](https://www.preferred.jp/ja/) (兼業)
