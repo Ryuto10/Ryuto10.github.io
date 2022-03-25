@@ -20,7 +20,7 @@ Author: Ryuto_Konno
 
 ## Publications
 ### International Conference
-- <u>Ryuto Konno</u>, Yuichiroh Matsubayashi, Shun Kiyono, Hiroki Ouchi, and Kentaro Inui. **Pseudo Zero Pronoun Resolution Improves Zero Anaphora Resolution.** *In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), pp.3790–3806, November 2021.*
+- <u>Ryuto Konno</u>, Shun Kiyono, Yuichiroh Matsubayashi, Hiroki Ouchi, and Kentaro Inui. **Pseudo Zero Pronoun Resolution Improves Zero Anaphora Resolution.** *In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), pp.3790–3806, November 2021.*
   ([paper](https://aclanthology.org/2021.emnlp-main.308/))
   ([code](https://github.com/Ryuto10/pzero-improves-zar))
   ([poster](https://ryuto10.github.io/files/EMNLP2021_poster.pdf))
@@ -56,6 +56,7 @@ Author: Ryuto_Konno
   ([slide](https://ryuto10.github.io/files/NLP2019_slide.pdf))
 
 ### 解説記事 / Review Articles
+- <u>今野颯人</u>. **Pseudo Zero Pronoun Resolution Improves Zero Anaphora Resolution.** *会誌「自然言語処理」, Volume 29, Number 1, pp.243-247, 2022. ([paper](https://www.jstage.jst.go.jp/article/jnlp/29/1/29_243/_article/-char/ja))
 - <u>今野颯人</u>. **An Empirical Study of Contextual Data Augmentation for Japanese Zero Anaphora Resolution.** *会誌「自然言語処理」, Volume 28, Number 2, pp.721-725, 2021.*
   ([paper](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_721/_article/-char/ja))
 
