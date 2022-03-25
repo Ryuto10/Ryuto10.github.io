@@ -56,7 +56,7 @@ Author: Ryuto_Konno
   ([slide](https://ryuto10.github.io/files/NLP2019_slide.pdf))
 
 ### 解説記事 / Review Articles
-- <u>今野颯人</u>. **Pseudo Zero Pronoun Resolution Improves Zero Anaphora Resolution.** *会誌「自然言語処理」, Volume 29, Number 1, pp.243-247, 2022. ([paper](https://www.jstage.jst.go.jp/article/jnlp/29/1/29_243/_article/-char/ja))
+- <u>今野颯人</u>. **Pseudo Zero Pronoun Resolution Improves Zero Anaphora Resolution.** *会誌「自然言語処理」, Volume 29, Number 1, pp.243-247, 2022.* ([paper](https://www.jstage.jst.go.jp/article/jnlp/29/1/29_243/_article/-char/ja))
 - <u>今野颯人</u>. **An Empirical Study of Contextual Data Augmentation for Japanese Zero Anaphora Resolution.** *会誌「自然言語処理」, Volume 28, Number 2, pp.721-725, 2021.*
   ([paper](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_721/_article/-char/ja))
 
