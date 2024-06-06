@@ -7,12 +7,11 @@ Author: Ryuto_Konno
 <!-- <img src="https://ryuto10.github.io/files/my_photo.jpg" width="250"> -->
 
 - [株式会社リクルート](https://www.recruit.co.jp/)
-- [株式会社Preferred Networks](https://www.preferred.jp/ja/) (兼業)
-- [学術研究員 at 鈴木潤研究室](https://www.fai.cds.tohoku.ac.jp/) (兼業)
+- [鈴木潤研究室](https://www.fai.cds.tohoku.ac.jp/) (兼業)
 
 ## History
-- *2021.10-* : 学術研究員 at [鈴木潤研究室](https://www.fai.cds.tohoku.ac.jp/) (兼業)
-- *2021.5-* : 株式会社Preferred Networks (兼業)
+- *2021.10-* : [鈴木潤研究室](https://www.fai.cds.tohoku.ac.jp/)
+- *2021.5-2022.10* : 株式会社Preferred Networks
 - *2021.4-* : 株式会社リクルート
 - *2019.4-2021.3* : 東北大学大学院 情報科学研究科 システム情報科学専攻 [乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/)
 - *2015.4-2019.3*: 東北大学 工学部 電気情報物理工学科
